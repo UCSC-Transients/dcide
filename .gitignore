@@ -1,0 +1,18 @@
+# Local planning notes (not for the public repo)
+08-decisions.md
+CLAUDE.md
+private/
+
+# Claude Code local state and worktrees
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Sphinx build output
+docs/_build/
+
+# OS
+.DS_Store
