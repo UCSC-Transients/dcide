@@ -1,5 +1,5 @@
-# Local planning notes (not for the public repo)
-08-decisions.md
+# Local planning notes (not for the public repo); specs live in private/spec/
+/[0-9][0-9]-*.md
 CLAUDE.md
 private/
 
